@@ -1,0 +1,1001 @@
+Attendee_ID,Career_Stage,Geographic_Region,CAS_Credential_Status
+A0001,Mid-Career,North East,Associate
+A0002,Entry-Level,International,Associate
+A0003,Executive,International,Associate
+A0004,Student,Mid-West,Associate
+A0005,Mid-Career,Mid-West,Non-Member
+A0006,Entry-Level,Mid-West,Credentialed
+A0007,Student,North East,Non-Member
+A0008,Mid-Career,South,Credentialed
+A0009,Executive,West,Non-Member
+A0010,Student,South,Non-Member
+A0011,Entry-Level,South,Non-Member
+A0012,Senior,West,Non-Member
+A0013,Student,North East,Non-Member
+A0014,Senior,South,Credentialed
+A0015,Senior,South,Associate
+A0016,Executive,North East,Non-Member
+A0017,Entry-Level,South,Associate
+A0018,Mid-Career,North East,Credentialed
+A0019,Senior,Mid-West,Associate
+A0020,Executive,South,Associate
+A0021,Mid-Career,South,Associate
+A0022,Entry-Level,West,Non-Member
+A0023,Mid-Career,West,Non-Member
+A0024,Mid-Career,International,Credentialed
+A0025,Entry-Level,International,Non-Member
+A0026,Student,West,Associate
+A0027,Senior,South,Non-Member
+A0028,Student,International,Credentialed
+A0029,Senior,West,Credentialed
+A0030,Senior,International,Associate
+A0031,Mid-Career,International,Non-Member
+A0032,Mid-Career,South,Associate
+A0033,Senior,South,Credentialed
+A0034,Entry-Level,Mid-West,Credentialed
+A0035,Entry-Level,Mid-West,Non-Member
+A0036,Entry-Level,International,Credentialed
+A0037,Student,North East,Credentialed
+A0038,Senior,West,Credentialed
+A0039,Executive,International,Non-Member
+A0040,Senior,Mid-West,Non-Member
+A0041,Entry-Level,North East,Associate
+A0042,Senior,North East,Non-Member
+A0043,Mid-Career,International,Non-Member
+A0044,Senior,North East,Credentialed
+A0045,Entry-Level,South,Associate
+A0046,Entry-Level,North East,Non-Member
+A0047,Entry-Level,North East,Credentialed
+A0048,Entry-Level,West,Associate
+A0049,Executive,Mid-West,Associate
+A0050,Mid-Career,South,Associate
+A0051,Entry-Level,West,Non-Member
+A0052,Entry-Level,North East,Associate
+A0053,Mid-Career,North East,Credentialed
+A0054,Mid-Career,Mid-West,Credentialed
+A0055,Mid-Career,North East,Non-Member
+A0056,Student,West,Associate
+A0057,Entry-Level,North East,Credentialed
+A0058,Entry-Level,South,Credentialed
+A0059,Senior,International,Associate
+A0060,Entry-Level,South,Credentialed
+A0061,Senior,Mid-West,Associate
+A0062,Mid-Career,Mid-West,Associate
+A0063,Senior,West,Credentialed
+A0064,Senior,South,Credentialed
+A0065,Entry-Level,Mid-West,Associate
+A0066,Student,West,Non-Member
+A0067,Senior,North East,Associate
+A0068,Entry-Level,South,Associate
+A0069,Mid-Career,North East,Non-Member
+A0070,Entry-Level,North East,Associate
+A0071,Senior,South,Credentialed
+A0072,Senior,South,Non-Member
+A0073,Executive,International,Associate
+A0074,Entry-Level,Mid-West,Credentialed
+A0075,Student,International,Credentialed
+A0076,Entry-Level,West,Associate
+A0077,Senior,North East,Non-Member
+A0078,Entry-Level,Mid-West,Non-Member
+A0079,Entry-Level,West,Non-Member
+A0080,Entry-Level,North East,Associate
+A0081,Entry-Level,West,Non-Member
+A0082,Senior,North East,Non-Member
+A0083,Mid-Career,North East,Associate
+A0084,Mid-Career,North East,Associate
+A0085,Mid-Career,North East,Credentialed
+A0086,Senior,West,Credentialed
+A0087,Executive,Mid-West,Credentialed
+A0088,Student,Mid-West,Associate
+A0089,Senior,North East,Credentialed
+A0090,Mid-Career,North East,Associate
+A0091,Senior,International,Credentialed
+A0092,Student,North East,Credentialed
+A0093,Senior,Mid-West,Associate
+A0094,Mid-Career,Mid-West,Non-Member
+A0095,Mid-Career,West,Non-Member
+A0096,Mid-Career,Mid-West,Credentialed
+A0097,Senior,South,Credentialed
+A0098,Senior,International,Credentialed
+A0099,Entry-Level,West,Non-Member
+A0100,Entry-Level,South,Non-Member
+A0101,Entry-Level,International,Associate
+A0102,Entry-Level,West,Credentialed
+A0103,Senior,North East,Associate
+A0104,Mid-Career,Mid-West,Associate
+A0105,Mid-Career,North East,Credentialed
+A0106,Senior,North East,Non-Member
+A0107,Mid-Career,North East,Credentialed
+A0108,Senior,International,Credentialed
+A0109,Executive,Mid-West,Credentialed
+A0110,Entry-Level,South,Non-Member
+A0111,Student,Mid-West,Associate
+A0112,Mid-Career,West,Associate
+A0113,Senior,International,Non-Member
+A0114,Senior,North East,Non-Member
+A0115,Mid-Career,South,Non-Member
+A0116,Executive,Mid-West,Associate
+A0117,Executive,Mid-West,Associate
+A0118,Executive,International,Non-Member
+A0119,Entry-Level,Mid-West,Associate
+A0120,Senior,West,Non-Member
+A0121,Entry-Level,Mid-West,Associate
+A0122,Mid-Career,South,Associate
+A0123,Mid-Career,South,Associate
+A0124,Entry-Level,West,Associate
+A0125,Senior,West,Non-Member
+A0126,Entry-Level,Mid-West,Associate
+A0127,Mid-Career,West,Credentialed
+A0128,Student,Mid-West,Non-Member
+A0129,Student,International,Associate
+A0130,Executive,South,Credentialed
+A0131,Student,International,Non-Member
+A0132,Mid-Career,International,Associate
+A0133,Mid-Career,West,Non-Member
+A0134,Senior,North East,Credentialed
+A0135,Mid-Career,North East,Credentialed
+A0136,Student,Mid-West,Credentialed
+A0137,Entry-Level,North East,Credentialed
+A0138,Executive,North East,Credentialed
+A0139,Entry-Level,West,Credentialed
+A0140,Executive,International,Credentialed
+A0141,Mid-Career,South,Non-Member
+A0142,Executive,West,Credentialed
+A0143,Mid-Career,International,Associate
+A0144,Mid-Career,International,Credentialed
+A0145,Student,North East,Credentialed
+A0146,Entry-Level,South,Non-Member
+A0147,Senior,North East,Associate
+A0148,Mid-Career,North East,Credentialed
+A0149,Entry-Level,Mid-West,Associate
+A0150,Executive,South,Non-Member
+A0151,Entry-Level,International,Associate
+A0152,Mid-Career,International,Credentialed
+A0153,Senior,South,Credentialed
+A0154,Mid-Career,South,Non-Member
+A0155,Senior,North East,Credentialed
+A0156,Executive,South,Credentialed
+A0157,Mid-Career,South,Non-Member
+A0158,Mid-Career,International,Credentialed
+A0159,Mid-Career,International,Non-Member
+A0160,Student,International,Associate
+A0161,Mid-Career,Mid-West,Associate
+A0162,Mid-Career,South,Non-Member
+A0163,Senior,South,Non-Member
+A0164,Entry-Level,South,Non-Member
+A0165,Senior,South,Credentialed
+A0166,Executive,West,Associate
+A0167,Senior,International,Non-Member
+A0168,Senior,South,Non-Member
+A0169,Student,South,Credentialed
+A0170,Executive,Mid-West,Non-Member
+A0171,Senior,International,Credentialed
+A0172,Entry-Level,International,Associate
+A0173,Executive,North East,Credentialed
+A0174,Entry-Level,International,Non-Member
+A0175,Student,Mid-West,Associate
+A0176,Senior,West,Associate
+A0177,Executive,International,Non-Member
+A0178,Entry-Level,West,Credentialed
+A0179,Entry-Level,North East,Non-Member
+A0180,Senior,North East,Credentialed
+A0181,Student,Mid-West,Non-Member
+A0182,Executive,International,Associate
+A0183,Mid-Career,West,Non-Member
+A0184,Student,South,Non-Member
+A0185,Entry-Level,South,Credentialed
+A0186,Student,Mid-West,Credentialed
+A0187,Executive,North East,Credentialed
+A0188,Senior,International,Associate
+A0189,Entry-Level,Mid-West,Non-Member
+A0190,Entry-Level,South,Credentialed
+A0191,Executive,West,Credentialed
+A0192,Senior,International,Associate
+A0193,Entry-Level,North East,Associate
+A0194,Entry-Level,Mid-West,Non-Member
+A0195,Entry-Level,International,Credentialed
+A0196,Senior,West,Associate
+A0197,Mid-Career,South,Non-Member
+A0198,Entry-Level,North East,Credentialed
+A0199,Entry-Level,South,Non-Member
+A0200,Senior,South,Non-Member
+A0201,Entry-Level,West,Non-Member
+A0202,Entry-Level,North East,Credentialed
+A0203,Mid-Career,West,Credentialed
+A0204,Mid-Career,North East,Credentialed
+A0205,Mid-Career,International,Credentialed
+A0206,Senior,South,Non-Member
+A0207,Student,International,Credentialed
+A0208,Entry-Level,South,Associate
+A0209,Senior,North East,Credentialed
+A0210,Mid-Career,North East,Credentialed
+A0211,Executive,West,Non-Member
+A0212,Mid-Career,Mid-West,Credentialed
+A0213,Mid-Career,North East,Non-Member
+A0214,Student,International,Credentialed
+A0215,Entry-Level,Mid-West,Non-Member
+A0216,Entry-Level,Mid-West,Non-Member
+A0217,Entry-Level,West,Credentialed
+A0218,Mid-Career,South,Non-Member
+A0219,Mid-Career,North East,Credentialed
+A0220,Mid-Career,Mid-West,Non-Member
+A0221,Executive,West,Non-Member
+A0222,Entry-Level,South,Associate
+A0223,Mid-Career,West,Associate
+A0224,Senior,South,Credentialed
+A0225,Entry-Level,South,Non-Member
+A0226,Mid-Career,West,Credentialed
+A0227,Senior,Mid-West,Credentialed
+A0228,Mid-Career,International,Credentialed
+A0229,Senior,South,Credentialed
+A0230,Student,South,Credentialed
+A0231,Executive,North East,Associate
+A0232,Student,South,Associate
+A0233,Student,North East,Non-Member
+A0234,Entry-Level,International,Non-Member
+A0235,Senior,West,Associate
+A0236,Senior,West,Associate
+A0237,Mid-Career,South,Associate
+A0238,Mid-Career,International,Credentialed
+A0239,Mid-Career,Mid-West,Non-Member
+A0240,Mid-Career,South,Associate
+A0241,Executive,West,Credentialed
+A0242,Mid-Career,International,Non-Member
+A0243,Student,West,Non-Member
+A0244,Entry-Level,West,Credentialed
+A0245,Mid-Career,International,Non-Member
+A0246,Mid-Career,West,Associate
+A0247,Mid-Career,North East,Associate
+A0248,Student,North East,Credentialed
+A0249,Executive,Mid-West,Non-Member
+A0250,Student,North East,Non-Member
+A0251,Student,International,Credentialed
+A0252,Entry-Level,Mid-West,Credentialed
+A0253,Entry-Level,Mid-West,Associate
+A0254,Mid-Career,North East,Associate
+A0255,Entry-Level,South,Non-Member
+A0256,Entry-Level,West,Credentialed
+A0257,Mid-Career,International,Associate
+A0258,Senior,West,Associate
+A0259,Senior,West,Associate
+A0260,Student,Mid-West,Credentialed
+A0261,Entry-Level,Mid-West,Credentialed
+A0262,Student,International,Non-Member
+A0263,Entry-Level,North East,Associate
+A0264,Mid-Career,West,Non-Member
+A0265,Executive,South,Credentialed
+A0266,Entry-Level,International,Non-Member
+A0267,Mid-Career,South,Associate
+A0268,Mid-Career,West,Credentialed
+A0269,Student,West,Non-Member
+A0270,Entry-Level,Mid-West,Credentialed
+A0271,Senior,International,Associate
+A0272,Senior,Mid-West,Associate
+A0273,Executive,South,Associate
+A0274,Mid-Career,North East,Non-Member
+A0275,Senior,North East,Credentialed
+A0276,Executive,West,Associate
+A0277,Entry-Level,International,Associate
+A0278,Mid-Career,West,Credentialed
+A0279,Mid-Career,North East,Non-Member
+A0280,Executive,International,Non-Member
+A0281,Mid-Career,North East,Credentialed
+A0282,Mid-Career,West,Associate
+A0283,Senior,Mid-West,Non-Member
+A0284,Entry-Level,International,Non-Member
+A0285,Student,North East,Credentialed
+A0286,Mid-Career,Mid-West,Credentialed
+A0287,Mid-Career,West,Associate
+A0288,Mid-Career,North East,Associate
+A0289,Student,South,Associate
+A0290,Mid-Career,Mid-West,Non-Member
+A0291,Mid-Career,International,Non-Member
+A0292,Mid-Career,West,Credentialed
+A0293,Entry-Level,West,Credentialed
+A0294,Mid-Career,West,Associate
+A0295,Entry-Level,Mid-West,Non-Member
+A0296,Mid-Career,International,Credentialed
+A0297,Student,International,Non-Member
+A0298,Entry-Level,South,Credentialed
+A0299,Entry-Level,International,Credentialed
+A0300,Student,International,Associate
+A0301,Mid-Career,South,Non-Member
+A0302,Mid-Career,Mid-West,Associate
+A0303,Senior,North East,Non-Member
+A0304,Senior,South,Credentialed
+A0305,Senior,International,Credentialed
+A0306,Entry-Level,North East,Associate
+A0307,Entry-Level,West,Associate
+A0308,Student,North East,Credentialed
+A0309,Mid-Career,South,Credentialed
+A0310,Mid-Career,International,Non-Member
+A0311,Entry-Level,North East,Associate
+A0312,Entry-Level,North East,Non-Member
+A0313,Executive,North East,Credentialed
+A0314,Senior,Mid-West,Non-Member
+A0315,Senior,Mid-West,Non-Member
+A0316,Senior,Mid-West,Associate
+A0317,Mid-Career,North East,Non-Member
+A0318,Senior,International,Credentialed
+A0319,Student,South,Associate
+A0320,Mid-Career,Mid-West,Credentialed
+A0321,Mid-Career,North East,Associate
+A0322,Executive,South,Associate
+A0323,Mid-Career,Mid-West,Associate
+A0324,Senior,North East,Credentialed
+A0325,Entry-Level,South,Associate
+A0326,Entry-Level,International,Credentialed
+A0327,Student,North East,Associate
+A0328,Mid-Career,North East,Credentialed
+A0329,Entry-Level,West,Associate
+A0330,Senior,West,Non-Member
+A0331,Entry-Level,International,Credentialed
+A0332,Mid-Career,South,Associate
+A0333,Entry-Level,South,Credentialed
+A0334,Student,West,Associate
+A0335,Mid-Career,Mid-West,Associate
+A0336,Entry-Level,West,Credentialed
+A0337,Executive,International,Associate
+A0338,Entry-Level,Mid-West,Credentialed
+A0339,Mid-Career,West,Credentialed
+A0340,Mid-Career,West,Associate
+A0341,Entry-Level,West,Non-Member
+A0342,Student,West,Non-Member
+A0343,Mid-Career,North East,Associate
+A0344,Student,Mid-West,Non-Member
+A0345,Senior,International,Non-Member
+A0346,Senior,Mid-West,Credentialed
+A0347,Student,Mid-West,Credentialed
+A0348,Entry-Level,Mid-West,Non-Member
+A0349,Mid-Career,South,Non-Member
+A0350,Entry-Level,Mid-West,Associate
+A0351,Mid-Career,South,Non-Member
+A0352,Mid-Career,West,Non-Member
+A0353,Entry-Level,North East,Credentialed
+A0354,Senior,South,Associate
+A0355,Mid-Career,South,Non-Member
+A0356,Entry-Level,North East,Credentialed
+A0357,Student,South,Associate
+A0358,Entry-Level,West,Associate
+A0359,Executive,Mid-West,Credentialed
+A0360,Senior,West,Associate
+A0361,Student,International,Credentialed
+A0362,Executive,North East,Associate
+A0363,Student,International,Credentialed
+A0364,Student,West,Credentialed
+A0365,Senior,West,Credentialed
+A0366,Mid-Career,Mid-West,Credentialed
+A0367,Senior,International,Credentialed
+A0368,Mid-Career,South,Credentialed
+A0369,Mid-Career,Mid-West,Associate
+A0370,Student,South,Non-Member
+A0371,Mid-Career,North East,Associate
+A0372,Entry-Level,International,Credentialed
+A0373,Entry-Level,South,Credentialed
+A0374,Mid-Career,North East,Associate
+A0375,Executive,North East,Credentialed
+A0376,Entry-Level,International,Associate
+A0377,Mid-Career,Mid-West,Credentialed
+A0378,Senior,International,Credentialed
+A0379,Mid-Career,International,Credentialed
+A0380,Executive,Mid-West,Credentialed
+A0381,Mid-Career,International,Non-Member
+A0382,Student,International,Credentialed
+A0383,Student,Mid-West,Associate
+A0384,Entry-Level,International,Non-Member
+A0385,Mid-Career,South,Credentialed
+A0386,Mid-Career,International,Non-Member
+A0387,Student,Mid-West,Credentialed
+A0388,Senior,West,Associate
+A0389,Senior,International,Credentialed
+A0390,Mid-Career,International,Non-Member
+A0391,Student,North East,Associate
+A0392,Executive,Mid-West,Associate
+A0393,Entry-Level,Mid-West,Non-Member
+A0394,Entry-Level,International,Non-Member
+A0395,Mid-Career,South,Associate
+A0396,Entry-Level,North East,Credentialed
+A0397,Mid-Career,South,Credentialed
+A0398,Executive,International,Credentialed
+A0399,Student,South,Associate
+A0400,Senior,South,Credentialed
+A0401,Executive,International,Credentialed
+A0402,Mid-Career,West,Credentialed
+A0403,Senior,South,Credentialed
+A0404,Entry-Level,International,Associate
+A0405,Senior,Mid-West,Credentialed
+A0406,Student,West,Non-Member
+A0407,Senior,North East,Non-Member
+A0408,Mid-Career,South,Credentialed
+A0409,Mid-Career,North East,Associate
+A0410,Mid-Career,Mid-West,Credentialed
+A0411,Student,South,Non-Member
+A0412,Mid-Career,International,Non-Member
+A0413,Mid-Career,West,Credentialed
+A0414,Student,North East,Non-Member
+A0415,Entry-Level,North East,Credentialed
+A0416,Mid-Career,Mid-West,Associate
+A0417,Executive,West,Credentialed
+A0418,Entry-Level,North East,Associate
+A0419,Entry-Level,North East,Credentialed
+A0420,Mid-Career,International,Non-Member
+A0421,Mid-Career,West,Credentialed
+A0422,Entry-Level,South,Credentialed
+A0423,Mid-Career,International,Credentialed
+A0424,Student,West,Non-Member
+A0425,Entry-Level,South,Credentialed
+A0426,Entry-Level,South,Non-Member
+A0427,Senior,South,Credentialed
+A0428,Mid-Career,International,Credentialed
+A0429,Mid-Career,North East,Non-Member
+A0430,Entry-Level,Mid-West,Associate
+A0431,Senior,West,Non-Member
+A0432,Executive,South,Associate
+A0433,Senior,South,Credentialed
+A0434,Senior,South,Credentialed
+A0435,Entry-Level,International,Associate
+A0436,Mid-Career,Mid-West,Non-Member
+A0437,Student,North East,Credentialed
+A0438,Senior,International,Credentialed
+A0439,Entry-Level,South,Non-Member
+A0440,Mid-Career,South,Non-Member
+A0441,Entry-Level,International,Associate
+A0442,Senior,South,Credentialed
+A0443,Mid-Career,International,Credentialed
+A0444,Entry-Level,West,Non-Member
+A0445,Student,West,Associate
+A0446,Senior,International,Associate
+A0447,Mid-Career,West,Credentialed
+A0448,Mid-Career,Mid-West,Associate
+A0449,Student,South,Associate
+A0450,Student,International,Non-Member
+A0451,Executive,International,Non-Member
+A0452,Mid-Career,International,Credentialed
+A0453,Entry-Level,North East,Credentialed
+A0454,Entry-Level,South,Non-Member
+A0455,Senior,North East,Non-Member
+A0456,Mid-Career,North East,Associate
+A0457,Mid-Career,South,Associate
+A0458,Executive,West,Credentialed
+A0459,Mid-Career,International,Credentialed
+A0460,Entry-Level,Mid-West,Credentialed
+A0461,Senior,International,Associate
+A0462,Executive,South,Non-Member
+A0463,Entry-Level,Mid-West,Non-Member
+A0464,Senior,International,Associate
+A0465,Mid-Career,International,Non-Member
+A0466,Mid-Career,Mid-West,Non-Member
+A0467,Senior,West,Non-Member
+A0468,Entry-Level,West,Credentialed
+A0469,Entry-Level,West,Associate
+A0470,Executive,West,Credentialed
+A0471,Student,South,Credentialed
+A0472,Senior,Mid-West,Credentialed
+A0473,Senior,Mid-West,Non-Member
+A0474,Entry-Level,North East,Associate
+A0475,Student,West,Associate
+A0476,Mid-Career,International,Associate
+A0477,Mid-Career,Mid-West,Non-Member
+A0478,Mid-Career,International,Credentialed
+A0479,Mid-Career,North East,Associate
+A0480,Executive,International,Associate
+A0481,Entry-Level,North East,Associate
+A0482,Executive,West,Credentialed
+A0483,Student,Mid-West,Non-Member
+A0484,Mid-Career,North East,Non-Member
+A0485,Mid-Career,North East,Non-Member
+A0486,Entry-Level,West,Non-Member
+A0487,Student,North East,Associate
+A0488,Student,Mid-West,Associate
+A0489,Entry-Level,Mid-West,Associate
+A0490,Entry-Level,Mid-West,Associate
+A0491,Mid-Career,International,Non-Member
+A0492,Entry-Level,West,Credentialed
+A0493,Executive,South,Non-Member
+A0494,Entry-Level,International,Credentialed
+A0495,Entry-Level,West,Associate
+A0496,Entry-Level,International,Associate
+A0497,Entry-Level,South,Non-Member
+A0498,Mid-Career,West,Non-Member
+A0499,Student,North East,Credentialed
+A0500,Entry-Level,West,Associate
+A0501,Mid-Career,West,Associate
+A0502,Entry-Level,South,Non-Member
+A0503,Executive,West,Associate
+A0504,Entry-Level,West,Non-Member
+A0505,Entry-Level,North East,Credentialed
+A0506,Executive,Mid-West,Credentialed
+A0507,Mid-Career,West,Credentialed
+A0508,Mid-Career,International,Non-Member
+A0509,Entry-Level,North East,Associate
+A0510,Student,International,Non-Member
+A0511,Senior,International,Associate
+A0512,Mid-Career,South,Non-Member
+A0513,Senior,North East,Associate
+A0514,Executive,International,Non-Member
+A0515,Entry-Level,West,Non-Member
+A0516,Mid-Career,South,Associate
+A0517,Student,West,Non-Member
+A0518,Senior,International,Non-Member
+A0519,Entry-Level,North East,Non-Member
+A0520,Mid-Career,South,Non-Member
+A0521,Executive,Mid-West,Non-Member
+A0522,Mid-Career,International,Credentialed
+A0523,Senior,West,Credentialed
+A0524,Entry-Level,International,Credentialed
+A0525,Student,North East,Credentialed
+A0526,Student,North East,Non-Member
+A0527,Entry-Level,South,Associate
+A0528,Mid-Career,North East,Non-Member
+A0529,Mid-Career,South,Associate
+A0530,Student,Mid-West,Credentialed
+A0531,Mid-Career,West,Associate
+A0532,Entry-Level,West,Credentialed
+A0533,Senior,South,Associate
+A0534,Mid-Career,International,Credentialed
+A0535,Entry-Level,West,Non-Member
+A0536,Senior,North East,Non-Member
+A0537,Mid-Career,Mid-West,Associate
+A0538,Senior,South,Associate
+A0539,Student,West,Credentialed
+A0540,Student,South,Non-Member
+A0541,Student,West,Credentialed
+A0542,Mid-Career,Mid-West,Non-Member
+A0543,Student,North East,Credentialed
+A0544,Executive,Mid-West,Associate
+A0545,Senior,International,Non-Member
+A0546,Senior,South,Associate
+A0547,Mid-Career,South,Non-Member
+A0548,Student,International,Associate
+A0549,Student,North East,Credentialed
+A0550,Mid-Career,North East,Non-Member
+A0551,Student,North East,Credentialed
+A0552,Senior,West,Credentialed
+A0553,Senior,Mid-West,Associate
+A0554,Mid-Career,North East,Non-Member
+A0555,Mid-Career,International,Non-Member
+A0556,Entry-Level,West,Associate
+A0557,Executive,Mid-West,Associate
+A0558,Mid-Career,West,Credentialed
+A0559,Mid-Career,International,Credentialed
+A0560,Executive,West,Non-Member
+A0561,Student,North East,Credentialed
+A0562,Mid-Career,West,Non-Member
+A0563,Mid-Career,North East,Credentialed
+A0564,Entry-Level,International,Associate
+A0565,Mid-Career,International,Associate
+A0566,Mid-Career,West,Credentialed
+A0567,Entry-Level,International,Non-Member
+A0568,Entry-Level,Mid-West,Associate
+A0569,Executive,North East,Credentialed
+A0570,Student,Mid-West,Non-Member
+A0571,Entry-Level,Mid-West,Non-Member
+A0572,Entry-Level,North East,Associate
+A0573,Mid-Career,International,Associate
+A0574,Mid-Career,International,Credentialed
+A0575,Student,South,Non-Member
+A0576,Entry-Level,International,Associate
+A0577,Entry-Level,Mid-West,Credentialed
+A0578,Executive,North East,Non-Member
+A0579,Entry-Level,North East,Credentialed
+A0580,Entry-Level,North East,Credentialed
+A0581,Mid-Career,South,Associate
+A0582,Executive,International,Credentialed
+A0583,Mid-Career,West,Non-Member
+A0584,Mid-Career,International,Associate
+A0585,Entry-Level,International,Non-Member
+A0586,Executive,International,Credentialed
+A0587,Mid-Career,International,Non-Member
+A0588,Student,West,Associate
+A0589,Student,North East,Associate
+A0590,Entry-Level,South,Associate
+A0591,Mid-Career,North East,Credentialed
+A0592,Student,North East,Non-Member
+A0593,Mid-Career,North East,Associate
+A0594,Senior,International,Credentialed
+A0595,Mid-Career,North East,Associate
+A0596,Senior,West,Associate
+A0597,Senior,International,Credentialed
+A0598,Mid-Career,Mid-West,Credentialed
+A0599,Mid-Career,South,Associate
+A0600,Student,Mid-West,Non-Member
+A0601,Senior,North East,Non-Member
+A0602,Mid-Career,West,Credentialed
+A0603,Senior,West,Associate
+A0604,Entry-Level,International,Non-Member
+A0605,Mid-Career,West,Non-Member
+A0606,Senior,West,Associate
+A0607,Senior,South,Associate
+A0608,Entry-Level,North East,Credentialed
+A0609,Entry-Level,Mid-West,Credentialed
+A0610,Mid-Career,West,Credentialed
+A0611,Senior,West,Credentialed
+A0612,Mid-Career,Mid-West,Associate
+A0613,Entry-Level,South,Associate
+A0614,Entry-Level,International,Associate
+A0615,Senior,West,Associate
+A0616,Student,North East,Credentialed
+A0617,Mid-Career,South,Associate
+A0618,Student,Mid-West,Credentialed
+A0619,Student,South,Credentialed
+A0620,Student,South,Credentialed
+A0621,Mid-Career,Mid-West,Non-Member
+A0622,Student,Mid-West,Credentialed
+A0623,Mid-Career,West,Non-Member
+A0624,Mid-Career,International,Credentialed
+A0625,Executive,West,Credentialed
+A0626,Executive,West,Non-Member
+A0627,Mid-Career,International,Associate
+A0628,Senior,South,Non-Member
+A0629,Entry-Level,Mid-West,Credentialed
+A0630,Entry-Level,North East,Associate
+A0631,Mid-Career,International,Non-Member
+A0632,Mid-Career,South,Credentialed
+A0633,Mid-Career,International,Associate
+A0634,Mid-Career,South,Credentialed
+A0635,Senior,South,Non-Member
+A0636,Mid-Career,North East,Non-Member
+A0637,Mid-Career,International,Credentialed
+A0638,Senior,International,Associate
+A0639,Entry-Level,South,Non-Member
+A0640,Senior,International,Associate
+A0641,Student,South,Associate
+A0642,Student,West,Associate
+A0643,Student,North East,Non-Member
+A0644,Mid-Career,West,Associate
+A0645,Senior,Mid-West,Associate
+A0646,Mid-Career,South,Associate
+A0647,Mid-Career,Mid-West,Non-Member
+A0648,Senior,South,Associate
+A0649,Senior,West,Non-Member
+A0650,Mid-Career,North East,Credentialed
+A0651,Student,North East,Non-Member
+A0652,Senior,South,Credentialed
+A0653,Entry-Level,International,Associate
+A0654,Mid-Career,Mid-West,Associate
+A0655,Mid-Career,South,Non-Member
+A0656,Mid-Career,International,Credentialed
+A0657,Senior,South,Credentialed
+A0658,Executive,South,Non-Member
+A0659,Mid-Career,North East,Credentialed
+A0660,Student,South,Non-Member
+A0661,Senior,North East,Credentialed
+A0662,Student,International,Non-Member
+A0663,Senior,North East,Non-Member
+A0664,Mid-Career,North East,Non-Member
+A0665,Entry-Level,West,Associate
+A0666,Student,South,Associate
+A0667,Mid-Career,International,Non-Member
+A0668,Student,International,Credentialed
+A0669,Senior,Mid-West,Credentialed
+A0670,Mid-Career,Mid-West,Credentialed
+A0671,Mid-Career,Mid-West,Credentialed
+A0672,Mid-Career,West,Non-Member
+A0673,Mid-Career,South,Credentialed
+A0674,Mid-Career,North East,Associate
+A0675,Entry-Level,International,Associate
+A0676,Entry-Level,North East,Non-Member
+A0677,Entry-Level,Mid-West,Associate
+A0678,Mid-Career,West,Associate
+A0679,Mid-Career,Mid-West,Non-Member
+A0680,Senior,West,Credentialed
+A0681,Senior,Mid-West,Associate
+A0682,Entry-Level,Mid-West,Credentialed
+A0683,Mid-Career,South,Credentialed
+A0684,Mid-Career,North East,Credentialed
+A0685,Mid-Career,Mid-West,Non-Member
+A0686,Mid-Career,North East,Credentialed
+A0687,Senior,North East,Credentialed
+A0688,Executive,International,Non-Member
+A0689,Senior,South,Credentialed
+A0690,Senior,West,Associate
+A0691,Executive,South,Associate
+A0692,Executive,West,Associate
+A0693,Student,Mid-West,Associate
+A0694,Executive,North East,Non-Member
+A0695,Student,International,Non-Member
+A0696,Mid-Career,North East,Credentialed
+A0697,Student,West,Non-Member
+A0698,Entry-Level,International,Associate
+A0699,Mid-Career,International,Credentialed
+A0700,Entry-Level,West,Non-Member
+A0701,Mid-Career,Mid-West,Associate
+A0702,Senior,North East,Credentialed
+A0703,Senior,Mid-West,Associate
+A0704,Mid-Career,Mid-West,Credentialed
+A0705,Mid-Career,South,Non-Member
+A0706,Mid-Career,West,Associate
+A0707,Mid-Career,Mid-West,Credentialed
+A0708,Executive,West,Non-Member
+A0709,Entry-Level,West,Credentialed
+A0710,Mid-Career,North East,Non-Member
+A0711,Entry-Level,South,Associate
+A0712,Senior,Mid-West,Associate
+A0713,Student,Mid-West,Credentialed
+A0714,Entry-Level,Mid-West,Credentialed
+A0715,Student,Mid-West,Credentialed
+A0716,Senior,North East,Non-Member
+A0717,Entry-Level,International,Associate
+A0718,Executive,West,Credentialed
+A0719,Senior,West,Credentialed
+A0720,Entry-Level,West,Non-Member
+A0721,Student,International,Credentialed
+A0722,Entry-Level,North East,Credentialed
+A0723,Entry-Level,International,Credentialed
+A0724,Senior,West,Associate
+A0725,Mid-Career,South,Associate
+A0726,Mid-Career,West,Non-Member
+A0727,Student,South,Non-Member
+A0728,Mid-Career,International,Credentialed
+A0729,Entry-Level,South,Non-Member
+A0730,Executive,Mid-West,Associate
+A0731,Senior,West,Credentialed
+A0732,Executive,North East,Credentialed
+A0733,Mid-Career,West,Associate
+A0734,Executive,West,Non-Member
+A0735,Entry-Level,Mid-West,Credentialed
+A0736,Student,Mid-West,Non-Member
+A0737,Entry-Level,South,Credentialed
+A0738,Senior,West,Credentialed
+A0739,Mid-Career,South,Non-Member
+A0740,Executive,West,Associate
+A0741,Student,Mid-West,Associate
+A0742,Executive,West,Associate
+A0743,Mid-Career,North East,Non-Member
+A0744,Mid-Career,International,Non-Member
+A0745,Executive,Mid-West,Associate
+A0746,Entry-Level,South,Credentialed
+A0747,Mid-Career,West,Non-Member
+A0748,Mid-Career,North East,Non-Member
+A0749,Senior,South,Credentialed
+A0750,Mid-Career,North East,Credentialed
+A0751,Executive,South,Non-Member
+A0752,Mid-Career,South,Associate
+A0753,Executive,Mid-West,Non-Member
+A0754,Entry-Level,South,Non-Member
+A0755,Entry-Level,North East,Non-Member
+A0756,Mid-Career,Mid-West,Non-Member
+A0757,Entry-Level,Mid-West,Associate
+A0758,Senior,North East,Associate
+A0759,Senior,West,Associate
+A0760,Senior,West,Credentialed
+A0761,Student,International,Credentialed
+A0762,Mid-Career,South,Credentialed
+A0763,Senior,Mid-West,Associate
+A0764,Senior,International,Credentialed
+A0765,Mid-Career,West,Associate
+A0766,Student,North East,Credentialed
+A0767,Executive,Mid-West,Non-Member
+A0768,Student,International,Associate
+A0769,Mid-Career,West,Non-Member
+A0770,Executive,North East,Associate
+A0771,Entry-Level,North East,Non-Member
+A0772,Entry-Level,West,Associate
+A0773,Mid-Career,North East,Credentialed
+A0774,Entry-Level,International,Non-Member
+A0775,Student,South,Credentialed
+A0776,Student,Mid-West,Non-Member
+A0777,Student,International,Credentialed
+A0778,Mid-Career,South,Associate
+A0779,Mid-Career,West,Non-Member
+A0780,Entry-Level,West,Associate
+A0781,Executive,Mid-West,Non-Member
+A0782,Mid-Career,West,Non-Member
+A0783,Senior,Mid-West,Credentialed
+A0784,Mid-Career,North East,Credentialed
+A0785,Mid-Career,West,Associate
+A0786,Entry-Level,Mid-West,Non-Member
+A0787,Mid-Career,South,Credentialed
+A0788,Senior,International,Non-Member
+A0789,Senior,Mid-West,Non-Member
+A0790,Mid-Career,North East,Associate
+A0791,Entry-Level,International,Credentialed
+A0792,Student,North East,Credentialed
+A0793,Mid-Career,International,Non-Member
+A0794,Entry-Level,International,Credentialed
+A0795,Entry-Level,South,Credentialed
+A0796,Entry-Level,West,Credentialed
+A0797,Mid-Career,North East,Non-Member
+A0798,Mid-Career,Mid-West,Non-Member
+A0799,Senior,South,Credentialed
+A0800,Student,South,Non-Member
+A0801,Mid-Career,International,Associate
+A0802,Student,South,Associate
+A0803,Senior,South,Credentialed
+A0804,Mid-Career,North East,Non-Member
+A0805,Student,North East,Credentialed
+A0806,Executive,North East,Credentialed
+A0807,Mid-Career,North East,Associate
+A0808,Mid-Career,West,Non-Member
+A0809,Mid-Career,Mid-West,Associate
+A0810,Senior,South,Non-Member
+A0811,Student,Mid-West,Non-Member
+A0812,Senior,North East,Credentialed
+A0813,Student,North East,Credentialed
+A0814,Entry-Level,West,Credentialed
+A0815,Student,North East,Non-Member
+A0816,Mid-Career,North East,Credentialed
+A0817,Mid-Career,West,Non-Member
+A0818,Senior,Mid-West,Credentialed
+A0819,Senior,South,Credentialed
+A0820,Senior,Mid-West,Associate
+A0821,Entry-Level,South,Associate
+A0822,Senior,North East,Non-Member
+A0823,Student,North East,Credentialed
+A0824,Mid-Career,International,Non-Member
+A0825,Senior,South,Credentialed
+A0826,Student,Mid-West,Non-Member
+A0827,Mid-Career,West,Credentialed
+A0828,Senior,South,Associate
+A0829,Student,South,Non-Member
+A0830,Executive,South,Credentialed
+A0831,Mid-Career,West,Credentialed
+A0832,Student,International,Credentialed
+A0833,Entry-Level,North East,Non-Member
+A0834,Mid-Career,West,Associate
+A0835,Student,South,Credentialed
+A0836,Student,North East,Associate
+A0837,Entry-Level,Mid-West,Credentialed
+A0838,Entry-Level,North East,Associate
+A0839,Mid-Career,South,Non-Member
+A0840,Mid-Career,West,Credentialed
+A0841,Entry-Level,Mid-West,Non-Member
+A0842,Student,International,Non-Member
+A0843,Student,Mid-West,Credentialed
+A0844,Mid-Career,International,Credentialed
+A0845,Mid-Career,North East,Credentialed
+A0846,Entry-Level,South,Associate
+A0847,Mid-Career,South,Credentialed
+A0848,Entry-Level,Mid-West,Associate
+A0849,Student,South,Credentialed
+A0850,Executive,South,Associate
+A0851,Mid-Career,South,Associate
+A0852,Mid-Career,International,Credentialed
+A0853,Executive,South,Associate
+A0854,Senior,North East,Associate
+A0855,Entry-Level,Mid-West,Non-Member
+A0856,Executive,Mid-West,Associate
+A0857,Mid-Career,South,Non-Member
+A0858,Senior,South,Non-Member
+A0859,Mid-Career,North East,Credentialed
+A0860,Mid-Career,International,Associate
+A0861,Entry-Level,West,Non-Member
+A0862,Entry-Level,North East,Non-Member
+A0863,Entry-Level,North East,Associate
+A0864,Senior,Mid-West,Credentialed
+A0865,Senior,North East,Associate
+A0866,Entry-Level,International,Associate
+A0867,Mid-Career,South,Associate
+A0868,Mid-Career,North East,Associate
+A0869,Senior,International,Credentialed
+A0870,Entry-Level,West,Credentialed
+A0871,Entry-Level,North East,Credentialed
+A0872,Student,Mid-West,Credentialed
+A0873,Mid-Career,South,Credentialed
+A0874,Mid-Career,Mid-West,Credentialed
+A0875,Entry-Level,Mid-West,Non-Member
+A0876,Senior,South,Credentialed
+A0877,Senior,South,Associate
+A0878,Senior,South,Associate
+A0879,Student,Mid-West,Associate
+A0880,Entry-Level,South,Associate
+A0881,Entry-Level,West,Non-Member
+A0882,Senior,Mid-West,Non-Member
+A0883,Mid-Career,International,Non-Member
+A0884,Mid-Career,Mid-West,Associate
+A0885,Mid-Career,South,Non-Member
+A0886,Student,Mid-West,Associate
+A0887,Senior,Mid-West,Credentialed
+A0888,Entry-Level,International,Associate
+A0889,Student,West,Credentialed
+A0890,Senior,Mid-West,Associate
+A0891,Executive,International,Credentialed
+A0892,Student,Mid-West,Non-Member
+A0893,Senior,South,Non-Member
+A0894,Mid-Career,South,Non-Member
+A0895,Student,West,Credentialed
+A0896,Mid-Career,North East,Credentialed
+A0897,Entry-Level,West,Non-Member
+A0898,Senior,International,Credentialed
+A0899,Entry-Level,Mid-West,Credentialed
+A0900,Entry-Level,North East,Credentialed
+A0901,Entry-Level,South,Non-Member
+A0902,Entry-Level,North East,Non-Member
+A0903,Mid-Career,North East,Credentialed
+A0904,Mid-Career,North East,Credentialed
+A0905,Entry-Level,International,Associate
+A0906,Senior,West,Credentialed
+A0907,Student,North East,Non-Member
+A0908,Senior,International,Non-Member
+A0909,Mid-Career,North East,Credentialed
+A0910,Mid-Career,Mid-West,Non-Member
+A0911,Student,West,Associate
+A0912,Student,Mid-West,Associate
+A0913,Entry-Level,South,Credentialed
+A0914,Senior,South,Associate
+A0915,Mid-Career,North East,Associate
+A0916,Mid-Career,Mid-West,Credentialed
+A0917,Mid-Career,South,Associate
+A0918,Mid-Career,International,Associate
+A0919,Student,North East,Associate
+A0920,Executive,Mid-West,Associate
+A0921,Student,Mid-West,Non-Member
+A0922,Entry-Level,North East,Non-Member
+A0923,Senior,North East,Non-Member
+A0924,Mid-Career,South,Associate
+A0925,Mid-Career,Mid-West,Credentialed
+A0926,Student,West,Associate
+A0927,Senior,International,Non-Member
+A0928,Senior,South,Credentialed
+A0929,Entry-Level,International,Credentialed
+A0930,Senior,International,Associate
+A0931,Student,North East,Non-Member
+A0932,Executive,Mid-West,Credentialed
+A0933,Senior,West,Credentialed
+A0934,Senior,West,Associate
+A0935,Executive,Mid-West,Credentialed
+A0936,Senior,West,Non-Member
+A0937,Mid-Career,International,Associate
+A0938,Student,South,Non-Member
+A0939,Entry-Level,West,Non-Member
+A0940,Mid-Career,South,Non-Member
+A0941,Entry-Level,Mid-West,Associate
+A0942,Mid-Career,West,Associate
+A0943,Student,North East,Associate
+A0944,Mid-Career,Mid-West,Non-Member
+A0945,Senior,Mid-West,Non-Member
+A0946,Student,South,Associate
+A0947,Senior,West,Credentialed
+A0948,Senior,International,Credentialed
+A0949,Entry-Level,South,Associate
+A0950,Senior,Mid-West,Associate
+A0951,Mid-Career,Mid-West,Credentialed
+A0952,Mid-Career,South,Credentialed
+A0953,Entry-Level,South,Credentialed
+A0954,Mid-Career,Mid-West,Associate
+A0955,Executive,West,Non-Member
+A0956,Mid-Career,Mid-West,Associate
+A0957,Entry-Level,Mid-West,Associate
+A0958,Executive,North East,Credentialed
+A0959,Mid-Career,South,Non-Member
+A0960,Mid-Career,North East,Associate
+A0961,Senior,International,Associate
+A0962,Entry-Level,West,Non-Member
+A0963,Student,International,Non-Member
+A0964,Senior,West,Non-Member
+A0965,Senior,North East,Associate
+A0966,Student,International,Non-Member
+A0967,Entry-Level,International,Associate
+A0968,Senior,North East,Non-Member
+A0969,Senior,International,Associate
+A0970,Mid-Career,Mid-West,Non-Member
+A0971,Entry-Level,International,Credentialed
+A0972,Student,West,Non-Member
+A0973,Executive,South,Non-Member
+A0974,Senior,International,Associate
+A0975,Mid-Career,International,Credentialed
+A0976,Executive,South,Credentialed
+A0977,Senior,South,Credentialed
+A0978,Student,International,Credentialed
+A0979,Student,Mid-West,Non-Member
+A0980,Entry-Level,South,Credentialed
+A0981,Executive,International,Non-Member
+A0982,Mid-Career,North East,Credentialed
+A0983,Mid-Career,South,Associate
+A0984,Senior,South,Associate
+A0985,Mid-Career,South,Non-Member
+A0986,Entry-Level,International,Associate
+A0987,Mid-Career,International,Non-Member
+A0988,Mid-Career,North East,Associate
+A0989,Executive,South,Non-Member
+A0990,Senior,South,Associate
+A0991,Entry-Level,South,Credentialed
+A0992,Mid-Career,North East,Associate
+A0993,Executive,Mid-West,Associate
+A0994,Senior,West,Associate
+A0995,Entry-Level,Mid-West,Associate
+A0996,Senior,Mid-West,Credentialed
+A0997,Senior,South,Associate
+A0998,Senior,West,Non-Member
+A0999,Mid-Career,Mid-West,Associate
+A1000,Entry-Level,International,Non-Member
